@@ -1,0 +1,9 @@
+{
+  "short_name": "Test_React_gsAPI",
+  "name": "Test_React_gsAPI",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
